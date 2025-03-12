@@ -87,7 +87,6 @@
 
 .content-section{
   margin-top: 32px;
-  width: 392px;
   height: 570px;
 }
 
