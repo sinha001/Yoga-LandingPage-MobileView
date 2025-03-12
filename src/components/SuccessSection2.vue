@@ -58,7 +58,6 @@
   
   /* Rotating Background Image (Only Partial Rotation) */
   .rotating-image {
-    width: 180px;
     position: absolute;
     animation: partialRotate 5s ease-in infinite normal;
     opacity: 0.5;
