@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Jost", sans-serif;
+  letter-spacing: 1.8px;
+}
+
+body {
+  max-width: 500px; /* Restrict width to common mobile screen sizes */
+  margin: 0 auto;
+  background-color: #FFFFFF;
+
+}
+html, body {
+  min-height: 100vh; /* Ensures the full viewport height is used */
+  overflow-x: hidden; /* Prevents horizontal scroll issues */
+}
