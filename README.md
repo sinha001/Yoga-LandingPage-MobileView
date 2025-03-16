@@ -1,5 +1,33 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 🧘‍♀️ Yoga Landing Page (Mobile View)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+This is a **Yoga Landing Page** designed specifically for **mobile devices** using **Vue 3** with **Vite**. It focuses on delivering a clean, responsive design tailored for smaller screens, providing a seamless user experience on mobile.
+
+## 🚀 **Live Demo**
+👉 [Yoga Landing Page](https://yoga-landing-page-mobile-view.vercel.app)
+
+## 🛠️ **Tech Stack**
+- **Vue 3** + **Vite**  
+- **Tailwind CSS** (for styling)  
+
+## 📱 **Features**
+✅ Mobile-first responsive design  
+✅ Simple, clean, and minimalistic layout  
+✅ Fast loading with optimized performance  
+
+## 📂 **Installation**
+```bash
+git clone https://github.com/sinha001/Yoga-LandingPage-MobileView.git
+cd Yoga-LandingPage-MobileView
+npm install
+npm run dev
+```
+
+## 🖥️ **Usage**
+- Open the app on a **mobile device** or use your browser's **developer tools** (Ctrl + Shift + M) to simulate a mobile screen.  
+- Best viewed on screen sizes **375px - 425px**.  
+
+
+
+## 📄 **License**
+This project is licensed under the [MIT License](LICENSE).
